@@ -24,9 +24,11 @@ Fonctionnalités principales :
 
 ## 🖼️ Capture d'écran (front React)
 
-```text
-(téléchargez vos screenshots dans /resources)
-```
+
+![image](https://github.com/user-attachments/assets/5c3f3697-acef-41f2-bf7d-0d190af27c2e)
+![image](https://github.com/user-attachments/assets/7364dd31-cf33-4025-95f0-aa5ffacec3ee)
+![image](https://github.com/user-attachments/assets/7368f5c8-f670-4c9f-86b7-80e8969fad14)
+
 
 ---
 
